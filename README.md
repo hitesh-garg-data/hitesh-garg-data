@@ -25,7 +25,15 @@ Visualizes regional and product-wise sales performance with KPIs like Total Sale
 - **Excel:** Pivot Tables, Dashboard Design, Data Cleaning  
 - **Power BI:** DAX, KPIs, Data Modeling, Storytelling  
 - **SQL:** Filtering, Joins, Aggregations, Query Logic  
-- **Domain:** Finance & Business Analytics  
+- **Domain:** Finance & Business Analytics
+
+---
+
+## 📜 Certifications
+- [Google Data Analytics Certificate — Course 1: Foundations: Data, Data, Everywhere](https://coursera.org/share/092e6ffefcf82526bcce3a43f8de5539)  
+  *Issued by Google via Coursera (November 2025)*  
+  Key topics: Data types • Lifecycle • Analyst roles • Decision frameworks
+
 
 ---
 
