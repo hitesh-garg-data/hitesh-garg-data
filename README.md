@@ -37,8 +37,8 @@ https://github.com/hitesh-garg-data/Retail-Sales-Dashboard-Excel
 https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI  
 
 📄 **Files:**  
-- [Sales_Dashboard_v1.pbix](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_Dashboard_v1.pbix) — Power BI Dashboard  
-- [Sales_Dashboard_v1.png](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_Dashboard_v1.png) — Dashboard Screenshot  
+- [Sales_Dashboard_v1.pbix](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.pbix) — Power BI Dashboard  
+- [Sales_Dashboard_v1.png](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.png) — Dashboard Screenshot  
 - [Sales_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.pdf)  — Dashboard Pdf 
 
 ---
