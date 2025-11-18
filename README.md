@@ -19,13 +19,13 @@
 **Date:** 16 Nov 2025
 
 🔗 **Repository:**
-https://github.com/hitesh-garg-data/Financial-Performance-Dashboard-Excel
+https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel
 
 📄**Files**:
 
-[Financial_Performance_Dashboard_v1.xlsx](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.xlsx)
-[Financial_Performance_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.pdf)
-[Financial_Performance_Dashboard_v1.png](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.png)
+[Financial_Performance_Dashboard_v1.xlsx](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.xlsx) — Interactive Excel Dashboard 
+[Financial_Performance_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.pdf) — Dashboard PDF  
+[Financial_Performance_Dashboard_v1.png](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.png) — Dashboard Screenshot  
 
 ---
 
