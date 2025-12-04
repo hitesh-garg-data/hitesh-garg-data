@@ -149,6 +149,8 @@ Cleaning steps (Excel-based transformation)
 
 Practice workflow for spreadsheet operations
 
+---
+
 ### 🧠 Tools & Skills
 - **Excel:** Pivot Tables, Dashboard Design, Data Cleaning  
 - **Power BI:** DAX, KPIs, Data Modeling, Storytelling  
