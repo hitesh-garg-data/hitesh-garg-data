@@ -92,7 +92,7 @@ Dataset consistency validation (Net Sales vs Cost vs Profit)
 
 ---
 
-## 🛢️ Finance SQL Mini Project
+## 🛢️ Finance SQL Mini Project- 22 Queries
 
 **Tools:** SQL • Window Functions • Subqueries • CTEs • Financial Analytics
 **Date**: 04 Dec 2025
