@@ -139,6 +139,8 @@ Dataset consistency validation (Net Sales vs Cost vs Profit)
 
 Basic data-cleaning practice using Excel functions, filters, formatting, and error correction.
 
+**Date:** 16 Nov 2025
+
 🔗 **Repository:**
 https://github.com/hitesh-garg-data/Excel-data-cleaning-practice
 
