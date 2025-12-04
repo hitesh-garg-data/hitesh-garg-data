@@ -131,6 +131,21 @@ Expense banding using CASE logic
 
 ---
 
+## 🧹 Additional Practice Project — Excel Data Cleaning
+
+Basic data-cleaning practice using Excel functions, filters, formatting, and error correction.
+
+🔗 **Repository:**
+https://github.com/hitesh-garg-data/Excel-data-cleaning-practice
+
+**📄 Files:**
+
+Contains structured before/after datasets
+
+Cleaning steps (Excel-based transformation)
+
+Practice workflow for spreadsheet operations
+
 ### 🧠 Tools & Skills
 - **Excel:** Pivot Tables, Dashboard Design, Data Cleaning  
 - **Power BI:** DAX, KPIs, Data Modeling, Storytelling  
