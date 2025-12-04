@@ -57,44 +57,10 @@ https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI
 
 ---
 
-## 🛢️ Retail Sales SQL Mini Project
-
-**Tools**: SQL • Aggregations • Joins • CTEs • Profitability Analysis
-**Date:** 04 Dec 2025
-
-**🔗 Repository:**
-https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project
-
-
-**📄 Files:**
-
-[Readme_Retail_Mini_Project.md](https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/blob/main/retail_sql_project/Readme_Retail_Mini_Project.md)
- — Full Project Documentation
-
-[Retail_Mini_Project_SQL.db](https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/blob/main/retail_sql_project/Retail_Mini_Project_SQL.db)
- — Project Database File
-
-[Screenshots Folder](https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/tree/main/retail_sql_project/screenshots)
- — Contains all query outputs & charts
-
-[Retail_Mini_Project_SQL.csv](https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/blob/main/retail_sql_project/Retail_Mini_Project_SQL.csv)
- — Source Dataset (CSV)
-
-**Highlights:**
-
-Top-selling products & negative-profit items
-
-Monthly revenue trends (Feb loss, March spike)
-
-Region-wise performance analysis
-
-Dataset consistency validation (Net Sales vs Cost vs Profit)
-
----
-
 ## 🛢️ Finance SQL Mini Project- 22 Queries
 
 **Tools:** SQL • Window Functions • Subqueries • CTEs • Financial Analytics
+
 **Date**: 04 Dec 2025
 
 **🔗 Repository:**
@@ -130,6 +96,43 @@ Derived tables & correlated subqueries
 Expense banding using CASE logic
 
 ---
+
+## 🛢️ Retail Sales SQL Mini Project
+
+**Tools**: SQL • Aggregations • Joins • CTEs • Profitability Analysis
+
+**Date:** 04 Dec 2025
+
+**🔗 Repository:**
+https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project
+
+
+**📄 Files:**
+
+[Readme_Retail_Mini_Project.md](https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/blob/main/retail_sql_project/Readme_Retail_Mini_Project.md)
+ — Full Project Documentation
+
+[Retail_Mini_Project_SQL.db](https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/blob/main/retail_sql_project/Retail_Mini_Project_SQL.db)
+ — Project Database File
+
+[Screenshots Folder](https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/tree/main/retail_sql_project/screenshots)
+ — Contains all query outputs & charts
+
+[Retail_Mini_Project_SQL.csv](https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/blob/main/retail_sql_project/Retail_Mini_Project_SQL.csv)
+ — Source Dataset (CSV)
+
+**Highlights:**
+
+Top-selling products & negative-profit items
+
+Monthly revenue trends (Feb loss, March spike)
+
+Region-wise performance analysis
+
+Dataset consistency validation (Net Sales vs Cost vs Profit)
+
+---
+
 
 ## 🧹 Additional Practice Project — Excel Data Cleaning
 
