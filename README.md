@@ -59,8 +59,8 @@ https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI
 
 ## 🛢️ Retail Sales SQL Mini Project
 
-Tools: SQL • Aggregations • Joins • CTEs • Profitability Analysis
-Date: 04 Dec 2025
+**Tools**: SQL • Aggregations • Joins • CTEs • Profitability Analysis
+**Date:** 04 Dec 2025
 
 **🔗 Repository:**
 https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project
@@ -94,8 +94,8 @@ Dataset consistency validation (Net Sales vs Cost vs Profit)
 
 ## 🛢️ Finance SQL Mini Project
 
-Tools: SQL • Window Functions • Subqueries • CTEs • Financial Analytics
-Date: 04 Dec 2025
+**Tools:** SQL • Window Functions • Subqueries • CTEs • Financial Analytics
+**Date**: 04 Dec 2025
 
 **🔗 Repository:**
 https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project
