@@ -80,21 +80,6 @@ https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project
 [Screenshots Folder](https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project/tree/main/finance_sql_project/screenshots)
  — Contains all query outputs & analysis visuals
 
-**Highlights:**
-
-Profitability analysis (Top products, top countries)
-
-Segment-level revenue vs profit insights
-
-Quarterly trends using CTE
-
-Negative-profit month detection
-
-Joins (INNER, LEFT, SELF, CROSS) with insights
-
-Derived tables & correlated subqueries
-
-Expense banding using CASE logic
 
 ---
 
@@ -122,15 +107,6 @@ https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project
 [Retail_Mini_Project_SQL.csv](https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/blob/main/retail_sql_project/Retail_Mini_Project_SQL.csv)
  — Source Dataset (CSV)
 
-**Highlights:**
-
-Top-selling products & negative-profit items
-
-Monthly revenue trends (Feb loss, March spike)
-
-Region-wise performance analysis
-
-Dataset consistency validation (Net Sales vs Cost vs Profit)
 
 ---
 
