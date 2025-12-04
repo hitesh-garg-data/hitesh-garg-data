@@ -53,7 +53,81 @@ https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI
 📄 **Files:**  
 - [Sales_Dashboard_v1.pbix](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.pbix) — Power BI Dashboard  
 - [Sales_Dashboard_v1.png](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.png) — Dashboard Screenshot  
-- [Sales_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.pdf)  — Dashboard Pdf 
+- [Sales_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.pdf)  — Dashboard Pdf
+
+- **🛢️ Retail Sales SQL Mini Project**
+
+Tools: SQL • Aggregations • Joins • CTEs • Profitability Analysis
+Date: 04 Dec 2025
+
+🔗 Repository:
+https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project
+
+📄 Files:
+
+🔗 Repository:
+https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project
+
+📄 Files:
+
+https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/blob/main/retail_sql_project/Readme_Retail_Mini_Project.md
+ — Full Project Documentation
+
+https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/blob/main/retail_sql_project/Retail_Mini_Project_SQL.db
+ — Project Database File
+
+https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/tree/main/retail_sql_project/screenshots
+ — Contains all query outputs & charts
+
+[Retail_Mini_Project_SQL.csv](https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/blob/main/retail_sql_project/Retail_Mini_Project_SQL.csv)
+ — Source Dataset (CSV)
+
+Highlights:
+
+Top-selling products & negative-profit items
+
+Monthly revenue trends (Feb loss, March spike)
+
+Region-wise performance analysis
+
+Dataset consistency validation (Net Sales vs Cost vs Profit)
+
+**🛢️ Finance SQL Mini Project**
+
+Tools: SQL • Window Functions • Subqueries • CTEs • Financial Analytics
+Date: 04 Dec 2025
+
+🔗 Repository:
+https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project
+
+📄 Files:
+https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project/blob/main/finance_sql_project/Readme_Finance_Mini_Project_SQL.md
+ — Full Project Documentation
+
+https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project/blob/main/finance_sql_project/Finance_mini_project.sql
+ — Complete SQL Query File
+
+https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project/blob/main/finance_sql_project/Finance_mini_project_Sql.db
+ — Project Database File
+
+https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project/tree/main/finance_sql_project/screenshots
+ — Contains all query outputs & analysis visuals
+
+Highlights:
+
+Profitability analysis (Top products, top countries)
+
+Segment-level revenue vs profit insights
+
+Quarterly trends using CTE
+
+Negative-profit month detection
+
+Joins (INNER, LEFT, SELF, CROSS) with insights
+
+Derived tables & correlated subqueries
+
+Expense banding using CASE logic
 
 ---
 
