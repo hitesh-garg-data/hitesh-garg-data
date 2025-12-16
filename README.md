@@ -107,8 +107,31 @@ https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project
 [Retail_Mini_Project_SQL.csv](https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project/blob/main/retail_sql_project/Retail_Mini_Project_SQL.csv)
  — Source Dataset (CSV)
 
+---
+
+## 💰 Financial Performance Dashboard (Power BI)
+**Tools:** Power BI • Power Query • DAX • Data Modeling • Financial Analytics  
+**Date:** 09 Dec 2025  
+
+A finance-focused Power BI dashboard analyzing revenue, cost structure, profitability, discounts, and country-level performance.  
+Built using the **same finance dataset** previously analyzed in Excel and SQL to demonstrate **cross-tool consistency and depth of understanding**.
+
+### 🔍 Key Insights
+- Strong revenue performance but **profitability is suppressed by high operating expenses**
+- **Medium and High discount bands** show better profit margins than Low/None
+- Revenue is sufficient, but **COGS + OpEx erode Net Profit significantly**
+- **Country performance paradox**: the U.S. leads in revenue but shows negative net profit
+
+🔗 **Repository:**  
+https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard  
+
+📄 **Files:**  
+- [Financial_Performance_Dashboard.pbix](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/tree/main/powerbi) — Interactive Power BI Dashboard  
+- [Dashboard Overview Screenshot](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/tree/main/screenshots)  
+- [Insights & Recommendations Screenshot](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/tree/main/screenshots)  
 
 ---
+
 
 
 ## 🧹 Additional Practice Project — Excel Data Cleaning
