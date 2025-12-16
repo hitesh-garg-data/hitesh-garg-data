@@ -14,6 +14,30 @@
 ---
 
 ### 🚀 Featured Projects
+
+## 💰 Financial Performance Dashboard (Power BI)
+**Tools:** Power BI • Power Query • DAX • Data Modeling • Financial Analytics  
+**Date:** 09 Dec 2025  
+
+A finance-focused Power BI dashboard analyzing revenue, cost structure, profitability, discounts, and country-level performance.  
+Built using the **same finance dataset** previously analyzed in Excel and SQL to demonstrate **cross-tool consistency and depth of understanding**.
+
+### 🔍 Key Insights
+- Strong revenue performance but **profitability is suppressed by high operating expenses**
+- **Medium and High discount bands** show better profit margins than Low/None
+- Revenue is sufficient, but **COGS + OpEx erode Net Profit significantly**
+- **Country performance paradox**: the U.S. leads in revenue but shows negative net profit
+
+🔗 **Repository:**  
+https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard  
+
+📄 **Files:**  
+- [Financial_Performance_Dashboard.pbix](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/powerbi/PB_Finance_Analysis.pbix) — Interactive Power BI Dashboard  
+- [Dashboard Overview Screenshot](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/screenshots/dashboard_overview.png)  
+- [Insights & Recommendations Screenshot](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/screenshots/insights_recommendations.png)  
+
+---
+
 ## 📊 Financial Performance Dashboard (Excel)
 **Tools:** Excel • Pivot Tables • Charts • Slicers • KPI Cards
 
@@ -27,34 +51,6 @@ https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel
 - [Financial_Performance_Dashboard_v1.xlsx](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.xlsx) — Interactive Excel Dashboard 
 - [Financial_Performance_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.pdf) — Dashboard PDF  
 - [Financial_Performance_Dashboard_v1.png](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.png) — Dashboard Screenshot  
-
----
-
-## 📊 Retail Sales Dashboard (Excel)
-**Tools:** Excel • Pivot Tables • Slicers • Timeline • KPI Cards  
-**Date:** 14 Nov 2025  
-
-🔗 **Repository:**  
-https://github.com/hitesh-garg-data/Retail-Sales-Dashboard-Excel  
-
-📄 **Files:**  
-- [Retail_Sales_Dashboard_v1.xlsx](https://github.com/hitesh-garg-data/Retail-Sales-Dashboard-Excel/blob/main/Retail_Sales_Dashboard_v1.xlsx) — Interactive Excel Dashboard  
-- [Retail_Sales_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Retail-Sales-Dashboard-Excel/blob/main/Retail_Sales_Dashboard_v1.pdf) — Dashboard PDF  
-- [Retail_Sales_Dashboard_v1.png](https://github.com/hitesh-garg-data/Retail-Sales-Dashboard-Excel/blob/main/Retail_Sales_Dashboard_v1.png) — Dashboard Screenshot  
-
----
-
-## 📈 Sales Dashboard (Power BI)
-**Tools:** Power BI • Power Query • DAX • Visualization  
-**Date:** 05 Nov 2025  
-
-🔗 **Repository:**  
-https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI  
-
-📄 **Files:**  
-- [Sales_Dashboard_v1.pbix](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.pbix) — Power BI Dashboard  
-- [Sales_Dashboard_v1.png](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.png) — Dashboard Screenshot  
-- [Sales_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.pdf)  — Dashboard Pdf
 
 ---
 
@@ -83,6 +79,36 @@ https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project
 
 ---
 
+## 📈 Sales Dashboard (Power BI)
+**Tools:** Power BI • Power Query • DAX • Visualization  
+**Date:** 05 Nov 2025  
+
+🔗 **Repository:**  
+https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI  
+
+📄 **Files:**  
+- [Sales_Dashboard_v1.pbix](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.pbix) — Power BI Dashboard  
+- [Sales_Dashboard_v1.png](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.png) — Dashboard Screenshot  
+- [Sales_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Sales-Dashboard-PowerBI/blob/main/Sales_dashboard_v1.pdf)  — Dashboard Pdf
+
+---
+
+
+## 📊 Retail Sales Dashboard (Excel)
+**Tools:** Excel • Pivot Tables • Slicers • Timeline • KPI Cards  
+**Date:** 14 Nov 2025  
+
+🔗 **Repository:**  
+https://github.com/hitesh-garg-data/Retail-Sales-Dashboard-Excel  
+
+📄 **Files:**  
+- [Retail_Sales_Dashboard_v1.xlsx](https://github.com/hitesh-garg-data/Retail-Sales-Dashboard-Excel/blob/main/Retail_Sales_Dashboard_v1.xlsx) — Interactive Excel Dashboard  
+- [Retail_Sales_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Retail-Sales-Dashboard-Excel/blob/main/Retail_Sales_Dashboard_v1.pdf) — Dashboard PDF  
+- [Retail_Sales_Dashboard_v1.png](https://github.com/hitesh-garg-data/Retail-Sales-Dashboard-Excel/blob/main/Retail_Sales_Dashboard_v1.png) — Dashboard Screenshot  
+
+---
+
+
 ## 🛢️ Retail Sales SQL Mini Project
 
 **Tools**: SQL • Aggregations • Joins • CTEs • Profitability Analysis
@@ -109,28 +135,6 @@ https://github.com/hitesh-garg-data/Retail-SQL-Mini-Project
 
 ---
 
-## 💰 Financial Performance Dashboard (Power BI)
-**Tools:** Power BI • Power Query • DAX • Data Modeling • Financial Analytics  
-**Date:** 09 Dec 2025  
-
-A finance-focused Power BI dashboard analyzing revenue, cost structure, profitability, discounts, and country-level performance.  
-Built using the **same finance dataset** previously analyzed in Excel and SQL to demonstrate **cross-tool consistency and depth of understanding**.
-
-### 🔍 Key Insights
-- Strong revenue performance but **profitability is suppressed by high operating expenses**
-- **Medium and High discount bands** show better profit margins than Low/None
-- Revenue is sufficient, but **COGS + OpEx erode Net Profit significantly**
-- **Country performance paradox**: the U.S. leads in revenue but shows negative net profit
-
-🔗 **Repository:**  
-https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard  
-
-📄 **Files:**  
-- [Financial_Performance_Dashboard.pbix](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/powerbi/PB_Finance_Analysis.pbix) — Interactive Power BI Dashboard  
-- [Dashboard Overview Screenshot](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/screenshots/dashboard_overview.png)  
-- [Insights & Recommendations Screenshot](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/screenshots/insights_recommendations.png)  
-
----
 
 
 
