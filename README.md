@@ -32,7 +32,8 @@ Built using the **same finance dataset** previously analyzed in Excel and SQL to
 https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard  
 
 📄 **Files:**  
-- [Financial_Performance_Dashboard.pbix](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/powerbi/PB_Finance_Analysis.pbix) — Interactive Power BI Dashboard  
+- [Financial_Performance_Dashboard.pbix](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/powerbi/PB_Finance_Analysis.pbix) — Interactive Power BI Dashboard
+- [[Financial_Performance_Dashboard.pdf]](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/powerbi/PB_Finance_Analysis.pdf) 
 - [Dashboard Overview Screenshot](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/screenshots/dashboard_overview.png)  
 - [Insights & Recommendations Screenshot](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/screenshots/insights_recommendations.png)  
 
