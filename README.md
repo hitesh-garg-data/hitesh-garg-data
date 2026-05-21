@@ -125,28 +125,7 @@ https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project
 
 ## 📜 Certifications
 
-### Google Data Analytics Professional Certificate (In Progress)
-
-Completed courses from the Google Data Analytics Certificate program:
-
-- **Foundations: Data, Data, Everywhere** *(Google • Coursera | Nov 2025)* :contentReference[oaicite:0]{index=0}  
-  Focus: Data ecosystem • Analytical thinking • Decision framing
-
-- **Ask Questions to Make Data-Driven Decisions** *(Google • Coursera | Dec 2025)* :contentReference[oaicite:1]{index=1}  
-  Focus: SMART questions • Stakeholder communication • Business problem framing
-
-- **Prepare Data for Exploration** *(Google • Coursera | Mar 2026)* :contentReference[oaicite:2]{index=2}  
-  Focus: Data organization • Data validation • Structured analysis workflows
-
-- **Process Data from Dirty to Clean** *(Google • Coursera | May 2026)* :contentReference[oaicite:3]{index=3}  
-  Focus: Data cleaning • Transformation • Data integrity
-
-- **Analyze Data to Answer Questions** *(Google • Coursera | May 2026)* :contentReference[oaicite:4]{index=4}  
-  Focus: SQL analysis • Aggregations • Business insights • KPI analysis
-
-- **Share Data Through the Art of Visualization** *(Google • Coursera | May 2026)* :contentReference[oaicite:5]{index=5}  
-  Focus: Data storytelling • Visualization principles • Dashboard communication
-
+- Google Data Analytics Professional Certificate — Google & Coursera (2026)
 ---
 
 ### 📬 Connect
