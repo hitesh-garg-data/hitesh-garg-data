@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hitesh Garg
 
-**Finance & Business Data Analyst**  
+**Data Analyst | SQL • Power BI • Excel • Python • Finance Analytics** 
 📊 I focus on analyzing profitability, cost structure, and business performance to support clear, decision-oriented insights — not just reporting dashboards.
 
 ---
@@ -9,103 +9,142 @@
 - Work centered on finance and business performance analysis
 - Experience building validated Excel and Power BI dashboards and SQL-based analyses for profitability and cost diagnostics
 - Strong emphasis on data validation, assumptions, and analytical limits to avoid misleading insights
-- Tools used: Excel, Power BI, SQL
+- Tools used: Excel, Power BI, SQL, Python, Pandas, Matplotlib
 
 ---
 
 ### 🚀 Featured Projects
 
-## 💰 Financial Performance Dashboard (Power BI)
-**Tools:** Power BI • Power Query • DAX • Data Modeling • Financial Analytics  
-**Date:** 09 Dec 2025  
+## 📈 Financial Business Health Analysis using Python
 
-**Business Context**
-This dashboard examines why strong revenue does not translate into profit, focusing on cost structure, discounts, and country-level performance.
+**Tools:** Python • Pandas • Matplotlib • Financial Analytics • KPI Engineering
 
-**Decision Supported**
-Helps management prioritize cost control, discount strategy review, and country-level intervention based on profitability risk rather than topline growth.
+Advanced financial business analysis project focused on profitability quality, cost efficiency, financial consistency, and strategic business recommendations.
 
-**What This Analysis Does NOT Do**
-Does not predict future performance or recommend strategy execution — it supports diagnosis and monitoring based on historical financial data.
-
-### 🔍 Key Insights
-- Strong revenue performance but **profitability is suppressed by high operating expenses**
-- **Medium and High discount bands** show better profit margins than Low/None
-- Revenue is sufficient, but **COGS + OpEx erode Net Profit significantly**
-- **Country performance paradox**: the U.S. leads in revenue but shows negative net profit
+### 🔍 Key Areas
+- Data cleaning & validation
+- Financial KPI engineering
+- Cost structure diagnostics
+- Revenue vs profit trend analysis
+- Regional profitability analysis
+- Financial consistency validation
+- Strategic recommendations
 
 🔗 **Repository:**  
-https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard  
+https://github.com/hitesh-garg-data/Financial-business-health-analysis-python
 
-📄 **Files:**  
-- [Financial_Performance_Dashboard.pbix](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/powerbi/PB_Finance_Analysis.pbix) — Interactive Power BI Dashboard
-- [[Financial_Performance_Dashboard.pdf]](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/powerbi/PB_Finance_Analysis.pdf) 
-- [Dashboard Overview Screenshot](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/screenshots/dashboard_overview.png)  
-- [Insights & Recommendations Screenshot](https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard/blob/main/screenshots/insights_recommendations.png)  
+---
+
+## 🛢️ Superstore Advanced SQL Business Case Study
+
+**Tools:** SQL • Window Functions • CTEs • Business Analytics
+
+Advanced SQL case study analyzing revenue growth, margin deterioration, customer concentration, logistics efficiency, volatility patterns, and profitability risks.
+
+### 🔍 Key Areas
+- Rolling revenue analysis
+- Pareto analysis
+- Profit margin deterioration
+- Revenue volatility
+- Logistics performance
+- Segment profitability
+- Data integrity validation
+
+🔗 **Repository:**  
+https://github.com/hitesh-garg-data/Superstore-sql-business-case-study
+
+---
+
+## 📊 Superstore Business Analysis using Python
+
+**Tools:** Python • Pandas • Matplotlib • Business Analytics
+
+Business analytics project evaluating category performance, transaction-level risks, revenue quality, and profitability behavior using Python.
+
+### 🔍 Key Areas
+- Category profitability analysis
+- Risk transaction detection
+- State-level performance
+- Revenue vs profit trends
+- Strategic business insights
+- Business recommendations
+
+🔗 **Repository:**  
+https://github.com/hitesh-garg-data/superstore-business-analysis-python
+
+## 💰 Financial Performance Dashboard (Power BI)
+
+**Tools:** Power BI • Power Query • DAX • Data Modeling • Financial Analytics
+
+Business-focused Power BI dashboard analyzing profitability, cost structure, discount behavior, and country-level financial performance.
+
+### 🔍 Key Insights
+- Strong revenue but profitability is constrained by high operating expenses
+- Medium and High discount bands perform better than Low/None
+- COGS and operating expenses significantly reduce net profit
+- U.S. generates highest revenue but negative net profit
+
+🔗 **Repository:**  
+https://github.com/hitesh-garg-data/powerbi-financial-performance-dashboard
 
 ---
 
 ## 📊 Financial Performance Dashboard (Excel)
-A lightweight Excel-based profitability and cost diagnostic for fast management review.
 
 **Tools:** Excel • Pivot Tables • Slicers • KPI Summaries
 
-**Date:** 16 Nov 2025
+Excel-based financial dashboard focused on profitability diagnostics, KPI monitoring, and quick business performance review.
 
-**Scope:** Designed for quick, transparent diagnosis — not predictive modeling or automated BI refresh.
-
-🔗 **Repository:**
+🔗 **Repository:**  
 https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel
-
-📄**Files**:
-
-- [Financial_Performance_Dashboard_v1.xlsx](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.xlsx) — Interactive Excel Dashboard 
-- [Financial_Performance_Dashboard_v1.pdf](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.pdf) — Dashboard PDF  
-- [Financial_Performance_Dashboard_v1.png](https://github.com/hitesh-garg-data/Finance-Performance-Dashboard-Excel/blob/main/Finance_Dashboard_v1.png) — Dashboard Screenshot  
 
 ---
 
 ## 🛢️ Finance Performance Analysis (SQL)
 
-SQL-based analysis used to validate financial metrics and diagnose profitability, cost structure, and segment-level performance.
-
 **Tools:** SQL • Aggregations • Joins • Subqueries • CTEs
 
-**Date**: 04 Dec 2025
+SQL-based financial analysis project evaluating profitability, cost structure, segment performance, and revenue trends using analytical SQL logic.
 
-**Scope:** Focused on historical analysis and metric logic — not forecasting or strategy execution.
-
-**🔗 Repository:**
+🔗 **Repository:**  
 https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project
-
-**📄 Files:**
-[Readme_Finance_Mini_Project_SQL.md](https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project/blob/main/finance_sql_project/Readme_Finance_Mini_Project_SQL.md)
- — Full Project Documentation
-
-[Finance_mini_project.sql](https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project/blob/main/finance_sql_project/Finance_mini_project.sql)
- — Complete SQL Query File
-
-[Finance_mini_project_Sql.db](https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project/blob/main/finance_sql_project/Finance_mini_project_Sql.db)
- — Project Database File
-
-[Screenshots Folder](https://github.com/hitesh-garg-data/Finance-SQL-Mini-Project/tree/main/finance_sql_project/screenshots)
- — Contains all query outputs & analysis visuals
 
 
 ---
 
 ### 🧠 Tools & Skills
-- **Excel:** Pivot Tables, Dashboard Design, Data Cleaning  
-- **Power BI:** DAX, KPIs, Data Modeling, Decision-Focused Reporting  
-- **SQL:** Filtering, Joins, Aggregations, Query Logic  
+
+- **Excel:** Pivot Tables, Dashboards, Data Cleaning
+- **Power BI:** DAX, KPI Reporting, Data Modeling
+- **SQL:** Joins, CTEs, Window Functions, Analytical Queries
+- **Python:** Pandas, Matplotlib, Data Cleaning, Business Analysis
 - **Domain:** Finance & Business Analytics
 
 ---
 
 ## 📜 Certifications
-- Google Data Analytics Certificate (Foundations & Decision Framing)  
-  *Issued by Google via Coursera (Nov–Dec 2025)*  
-  Focus areas: Business problem framing • SMART questions • Stakeholder context • Decision-oriented analysis
+
+### Google Data Analytics Professional Certificate (In Progress)
+
+Completed courses from the Google Data Analytics Certificate program:
+
+- **Foundations: Data, Data, Everywhere** *(Google • Coursera | Nov 2025)* :contentReference[oaicite:0]{index=0}  
+  Focus: Data ecosystem • Analytical thinking • Decision framing
+
+- **Ask Questions to Make Data-Driven Decisions** *(Google • Coursera | Dec 2025)* :contentReference[oaicite:1]{index=1}  
+  Focus: SMART questions • Stakeholder communication • Business problem framing
+
+- **Prepare Data for Exploration** *(Google • Coursera | Mar 2026)* :contentReference[oaicite:2]{index=2}  
+  Focus: Data organization • Data validation • Structured analysis workflows
+
+- **Process Data from Dirty to Clean** *(Google • Coursera | May 2026)* :contentReference[oaicite:3]{index=3}  
+  Focus: Data cleaning • Transformation • Data integrity
+
+- **Analyze Data to Answer Questions** *(Google • Coursera | May 2026)* :contentReference[oaicite:4]{index=4}  
+  Focus: SQL analysis • Aggregations • Business insights • KPI analysis
+
+- **Share Data Through the Art of Visualization** *(Google • Coursera | May 2026)* :contentReference[oaicite:5]{index=5}  
+  Focus: Data storytelling • Visualization principles • Dashboard communication
 
 ---
 
