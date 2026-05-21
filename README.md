@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Hitesh Garg
 
 **Data Analyst | SQL • Power BI • Excel • Python • Finance Analytics** 
+
 📊 I focus on analyzing profitability, cost structure, and business performance to support clear, decision-oriented insights — not just reporting dashboards.
 
 ---
